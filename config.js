@@ -1,0 +1,23 @@
+export const nameBand = 'RED HOT CHILLI PEPPERS';
+export const nameSongs = [
+	"DARK NECESSITIES", /*1*/
+	"CAN'T STOP", /*2*/
+	"DANI CALIFORNIA", /*3*/
+	"THE ADVENTURES OF RAIN DANCE MAGGIE", /*4*/
+	"UNDER THE BRIDGE", /*5*/
+	"SNOW", /*6*/
+	"CALIFOR-NICATION", /*7*/
+	"SCAR TISSUE", /*8*/
+	"BY THE WAY", /*9*/
+	"AROUND THE WORLD", /*10*/
+	"BLACK SUMMER", /*11*/
+	"POSTER CHILD", /*12*/
+	"GIVE IT AWAY", /*13*/
+	"FORTUNE FADED", /*14*/
+	"THE ZEPHYR SONG", /*15*/
+	"COFFEE SHOP", /*16*/
+	"DARK NECESSITIES - OLIBE REMIX", /*17*/
+	"ROAD TRIPPIN", /*18*/
+	"AEROPLANE", /*19*/
+	"DARK NECCESITIES - 8D AUDIO", /*20*/
+]
